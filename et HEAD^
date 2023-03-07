@@ -1,0 +1,268 @@
+[33mcommit 857f20f2481d3c9944a000a1e6a9ea0f7ed9cec2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: ef66698 b52b8c2
+Author: gksktl111 <gksktl111@naver.com>
+Date:   Wed Mar 8 00:02:42 2023 +0900
+
+    Merge branch 'main' of https://github.com/gksktl111/PS_ATTACK
+
+[33mcommit ef666989799807906341f0214407d23062cf053b[m
+Author: gksktl111 <gksktl111@naver.com>
+Date:   Wed Mar 8 00:01:59 2023 +0900
+
+    [백준/bruteforce]접두사 (1141)
+
+[33mcommit 98854352de687173c5d3f8621b6bfb4d55807a2d[m
+Author: gksktl111 <gksktl111@naver.com>
+Date:   Tue Mar 7 23:55:35 2023 +0900
+
+    [백준/bruteforce]접두사 (1141)
+
+[33mcommit b52b8c267799600a3bf3f94071551e8ef9a526e5[m
+Merge: 373a473 da3230b
+Author: SUA BAE <90668202+su8y@users.noreply.github.com>
+Date:   Mon Mar 6 19:28:58 2023 +0900
+
+    Merge pull request #45 from GwanSuNi/main
+    
+    GwanSuNi/1문제
+
+[33mcommit da3230b1defbf50bb638d092aba18146e8dfc9e8[m
+Author: GwanSuNi <tony2yoo@gmail.com>
+Date:   Mon Mar 6 14:33:39 2023 +0900
+
+    Apply .gitignore
+
+[33mcommit 51331fd4bd3acc780e3c94084ba5d4641ab71a84[m
+Author: gksktl111 <gksktl111@naver.com>
+Date:   Wed Mar 1 19:28:29 2023 +0900
+
+    [프로그래머스/문자열]2023KAKAO (1번문제)
+
+[33mcommit 373a4734c545cfa60071fe017218dd200e91adcd[m
+Merge: bc9c987 3ce501c
+Author: SUA BAE <90668202+su8y@users.noreply.github.com>
+Date:   Thu Feb 23 20:03:14 2023 +0900
+
+    Merge pull request #41 from su8y/su8y
+    
+    Su8y/5 문제
+
+[33mcommit bc9c987832c101eb7be147a1e1f58774ccab9188[m
+Merge: 94bdbf5 be60c8f
+Author: SUA BAE <90668202+su8y@users.noreply.github.com>
+Date:   Thu Feb 23 20:03:02 2023 +0900
+
+    Merge pull request #42 from gksktl111/main
+    
+    gksktl111[백준/dp,문자열]LCS(9251)
+
+[33mcommit 94bdbf58e7366234a41a284f7761adce31214ba7[m
+Author: SUA BAE <90668202+su8y@users.noreply.github.com>
+Date:   Thu Feb 23 20:02:36 2023 +0900
+
+    :memo: Update readMe
+    
+    5,6,7,8주차 업데이트
+
+[33mcommit be60c8fd0461d713f12a41553d0b7030f74c21cc[m
+Author: gksktl111 <gksktl111@naver.com>
+Date:   Thu Feb 16 17:03:54 2023 +0900
+
+    [백준/dp,문자열]LCS(9251)
+
+[33mcommit 00f934b105cf07db4ac0197819519fa71e6f8255[m
+Merge: 7e81726 e44e567
+Author: SUA BAE <90668202+su8y@users.noreply.github.com>
+Date:   Thu Feb 9 20:46:32 2023 +0900
+
+    Merge pull request #40 from gksktl111/main
+    
+    gksktl111 / greedy 3문제
+
+[33mcommit 3ce501cbeac4725cc1d35864add50b87e1bc11e2[m
+Author: 3uby <bsa0530@gmail.com>
+Date:   Thu Feb 9 18:46:27 2023 +0900
+
+    :sparkles: [BOJ/다익스트라] 숨바꼭질 3 (13549)
+    
+    https://www.acmicpc.net/problem/13549
+
+[33mcommit 4383642bee845556707c148914c42dde04efe7d1[m
+Author: 3uby <bsa0530@gmail.com>
+Date:   Sat Feb 4 16:43:49 2023 +0900
+
+    :sparkles: [BOJ/Implements] 음계 (2920)
+    
+    https://www.acmicpc.net/problem/2920
+
+[33mcommit e72d7d899ec51b0096e5c3c7d824403ea563836b[m
+Author: 3uby <bsa0530@gmail.com>
+Date:   Sat Feb 4 16:27:04 2023 +0900
+
+    :sparkles: [LEETCODE/STRING]Longest Common Prefix (14)
+
+[33mcommit e44e5676a5be0ac321d2f1ebb2e2942b4ec8248f[m
+Author: gksktl111 <gksktl111@naver.com>
+Date:   Thu Feb 2 22:10:54 2023 +0900
+
+    [백준/greedy]신입사원(1946)
+
+[33mcommit 7e817260fd5061efeae2ee7af07e3b8d5e6b2153[m
+Merge: 3323f1d ccb4f51
+Author: SUA BAE <90668202+su8y@users.noreply.github.com>
+Date:   Thu Feb 2 22:07:15 2023 +0900
+
+    Merge pull request #37 from DaoNz/main
+    
+    DaoNz / DFS,BFS 2문제 \ 그리디알고리즘 1문제
+
+[33mcommit 3323f1db3a07f84481e687b13f57715c758976fa[m
+Merge: ea1621c 9881350
+Author: SUA BAE <90668202+su8y@users.noreply.github.com>
+Date:   Thu Feb 2 22:07:01 2023 +0900
+
+    Merge pull request #39 from tecte1023/main
+    
+    tecte/1문제
+
+[33mcommit 98813508939b0f7fd53ee5a4403bc6530ff05c1a[m
+Author: tecte <tecte1023@gmail.com>
+Date:   Thu Feb 2 21:12:07 2023 +0900
+
+    [백준]회의실 배정(1931)
+
+[33mcommit aeb20007ac392f382fb0378a23c1cc5414208f80[m
+Merge: a3f6e6e ea1621c
+Author: pointtt <50075024+gksktl111@users.noreply.github.com>
+Date:   Thu Feb 2 21:03:41 2023 +0900
+
+    Merge branch 'su8y:main' into main
+
+[33mcommit a3f6e6e9777a1ab3f5117c67964db02c1c1113ed[m
+Author: gksktl111 <gksktl111@naver.com>
+Date:   Thu Feb 2 20:56:34 2023 +0900
+
+    [백준/greedy]문서검색(1543)
+
+[33mcommit e1dcc93504f654cfb5babb990cd1d74a12563e1a[m
+Author: 3uby <bsa0530@gmail.com>
+Date:   Thu Feb 2 20:32:50 2023 +0900
+
+    :sparkles: [BOJ/TREE] 트리 순회 (1991)
+    
+    Node Class 만들어서 dfs
+
+[33mcommit ccb4f51202c9f9461bf34def1cd27ccc524d98e8[m
+Author: DaoN <115969077+DaoNz@users.noreply.github.com>
+Date:   Thu Feb 2 19:51:24 2023 +0900
+
+    [백준/DFS,BFS] DFS와 BFS
+
+[33mcommit 81d490dd3526a7ee65979e3b253f43ebe3bf3d01[m
+Author: DaoN <115969077+DaoNz@users.noreply.github.com>
+Date:   Thu Feb 2 19:50:09 2023 +0900
+
+    [백준/DFS] 바이러스
+
+[33mcommit d56a47e5e04003101e9ad88bd4ffab7558363494[m
+Author: DaoN <115969077+DaoNz@users.noreply.github.com>
+Date:   Thu Feb 2 19:49:32 2023 +0900
+
+    [백준/그리디알고리즘,정렬] 회의실 배정
+
+[33mcommit e61362172418273b378176f425ff7f3de541fc3f[m
+Author: 3uby <bsa0530@gmail.com>
+Date:   Thu Feb 2 19:46:01 2023 +0900
+
+    :sparkles: [BOJ/DFS] 바이러스 (2606)
+
+[33mcommit ea1621c8de7ffbb49e1da9417f2b00897118f26d[m
+Merge: 8f9b1cf 8f4e0a0
+Author: SUA BAE <90668202+su8y@users.noreply.github.com>
+Date:   Thu Feb 2 11:01:57 2023 +0900
+
+    Merge pull request #36 from su8y/su8y
+    
+    Su8y / 4문제
+
+[33mcommit 8f4e0a047504c26aa2cffb0c6e6e7b64846876b8[m
+Author: 3uby <bsa0530@gmail.com>
+Date:   Thu Feb 2 10:58:20 2023 +0900
+
+    :sparkles: [LEETCODE/DFS]Where Will the ball fall (1706)
+
+[33mcommit 529e6a5f7f8d9a0aa0254e014a0b95b5526d2a10[m
+Author: 3uby <bsa0530@gmail.com>
+Date:   Wed Feb 1 11:58:13 2023 +0900
+
+    :sparkles: [LEETCODE/IMPLEMENTS] Happy Number (202)
+    
+    각 자리수를 제곱하고 합하였을때 순환이 생기는지 확인후 순환이 존재하면 false 반환
+
+[33mcommit 8f9b1cfd5496c7649492221627e22530e8d20b1d[m
+Merge: 7c35a29 bff438c
+Author: SUA BAE <90668202+su8y@users.noreply.github.com>
+Date:   Mon Jan 30 14:25:16 2023 +0900
+
+    Merge pull request #34 from Ryuintae/main
+    
+    스택 3문제 풀어봤습니다
+
+[33mcommit 39aabfc8e997fd1fb12e74bbf86a680537d096ee[m
+Author: 3uby <bsa0530@gmail.com>
+Date:   Thu Jan 26 12:23:42 2023 +0900
+
+    :sparkles: [BOJ/DFS] 유기농 배추 (1012)
+    
+    dfs로 몇번 dfs가 일어나는지 개수를 셈
+
+[33mcommit 14f654f9b53ba4f37e1f30dbde513c6eb9b04f31[m
+Author: 3uby <bsa0530@gmail.com>
+Date:   Thu Jan 26 11:21:49 2023 +0900
+
+    :sparkles: [BOJ/greedy] 주유소 (13305)
+    
+    그리디 문제 뒤에서 부터 접근하는 문제점을 발견하지 못했고 반례를 통해 깨닮음
+
+[33mcommit bff438c4586cfc1a53f05112b44b73c921d406b8[m
+Author: 류인태 <101119025+Ryuintae@users.noreply.github.com>
+Date:   Thu Jan 26 08:55:41 2023 +0900
+
+    [백준/스택] 9012번 괄호
+
+[33mcommit 409775a2e09aeb44e25c8e7472dc26b3beeb5354[m
+Author: 류인태 <101119025+Ryuintae@users.noreply.github.com>
+Date:   Thu Jan 26 08:54:43 2023 +0900
+
+    [백준/스택] 10773번 제로
+
+[33mcommit bafd6e4e40c8a776cc2dc2d6e2a086cbefa3cd0c[m
+Author: 류인태 <101119025+Ryuintae@users.noreply.github.com>
+Date:   Thu Jan 26 08:53:57 2023 +0900
+
+    [백준/스택] 10828번 스택
+
+[33mcommit 0d273549c67e63667bbd8ef70a734c44a7da5cae[m
+Merge: b117e54 89cfc21
+Author: Ryuintae <dlsxichlrg@naver.com>
+Date:   Thu Jan 26 08:52:07 2023 +0900
+
+    Merge remote-tracking branch 'origin/main' into main
+
+[33mcommit b117e54c91cde83bed39c48949709761030c4e69[m
+Author: Ryuintae <dlsxichlrg@naver.com>
+Date:   Thu Jan 26 08:52:04 2023 +0900
+
+    [백준/스택] 3문제
+
+[33mcommit 9dcaafe4e72d31fd61ae4e3d8f09f4284f8914fd[m
+Author: 3uby <bsa0530@gmail.com>
+Date:   Thu Jan 26 00:31:52 2023 +0900
+
+    :sparkles: [BOJ/greedy] 읽어버린 괄호 (1541)
+    
+    + 연산자와 인접한 숫자들을 다 더해준후 처음 값에서 다 빼준다.
+
+[33mcommit 31df77a04158595730c44be1e74b0cd599febf22[m
+Author: 3uby <bsa0530@gmail.com>
+Date:   Wed Jan 25 
