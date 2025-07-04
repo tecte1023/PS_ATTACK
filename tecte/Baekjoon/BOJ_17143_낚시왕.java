@@ -1,5 +1,7 @@
 /*
  * 문제 : 백준 17143번 - 낚시왕 (https://www.acmicpc.net/problem/17143)
+ *
+ * 시간 복잡도: O(c * m)
  */
 
 package Baekjoon;
