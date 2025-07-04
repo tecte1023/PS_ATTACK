@@ -1,5 +1,5 @@
 /*
- * 문제 : 백준 17143번 - 낚시왕 (https://www.acmicpc.net/problem/17143)
+ * 문제: 백준 17143번 - 낚시왕 (https://www.acmicpc.net/problem/17143)
  *
  * 시간 복잡도: O(c * m)
  */
@@ -7,9 +7,7 @@
 package Baekjoon;
 
 import java.io.*;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.StringTokenizer;
+import java.util.*;
 
 public class BOJ_17143_낚시왕 {
     // public class Main {
